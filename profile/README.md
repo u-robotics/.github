@@ -1,1 +1,1 @@
-μ-Robotics
+Micro companions are compact robots designed to entertain and support people in any space, no matter how limited. These robots lack sufficient computational power to operate independently, so they need to be connected to a smartphone or PC/laptop. They can also occasionally utilize cloud infrastructure for additional processing capabilities.
