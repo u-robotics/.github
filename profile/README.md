@@ -1,4 +1,4 @@
-Through μ-Robotics, I explore future technological advancements, extending beyond my current work to satisfy my curiosity. I manage this effectively by relying on AI assistants to handle a significant portion of the workload, allowing me to dedicate minimal personal time.
+Through μ-RnD, I explore future technological advancements, extending beyond my current work to satisfy my curiosity. I manage this effectively by relying on AI assistants to handle a significant portion of the workload, allowing me to dedicate minimal personal time.
 
 My efforts are concentrated on research and development, specifically in finding practical applications of AI+Robotics that deliver real impact in life and business. My method involves identifying promising new areas and then rigorously building and testing these solutions through experimentation and prototyping.
 
